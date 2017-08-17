@@ -6,6 +6,9 @@ This is a tool that transforms a comma separated (CSV) list of flashcard data in
 ## Usage
 Visit https://dc25.github.io/printFlashcards and click to "Choose File" button to load a CSV flashcard file from your hard disk.  The printable output will display immediatly.  You should be able to print directly to your printer.   *Important* : Set the printer margins to "none" and (of course) print to the front and back of each page.
 
+## Building
+Compile with : "elm-make Main.elm --output output/Main.js"
+
 ## Testing
 Tested on a Brother 2270-DW printer.
 
