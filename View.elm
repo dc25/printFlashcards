@@ -105,7 +105,7 @@ viewInput : Model -> List (Html Msg)
 viewInput model = 
        [ text "Flashcard Printer!" ] 
     ++ [ br [] [] ]
-    ++ [ a [ href "https://google.com" ] [text "Click here for details"] ]
+    ++ [ a [ href "https://github.com/dc25/printFlashcards" ] [text "Click here for details"] ]
     ++ [ br [] [] ]
     ++ slider "columns" model.minCols model.maxCols model.curCols SetCols 
     ++ [ br [] [] ]

@@ -7,3 +7,9 @@ To use it, visit https://dc25.github.io/printFlashcards and click to "Choose Fil
 Tested on a Brother 2270-DW printer.
 
 Please let me know if you run into problems or have suggestions for improvements.
+
+The code used for reading csv files in this project is based on :
+* https://blog.reifyworks.com/javascript-interop-with-elm-using-ports-to-read-and-parse-csv-files-fef60c318b7a
+* Github Repo: https://github.com/mrb/elm-csv-file-upload
+
+
