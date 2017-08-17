@@ -1,4 +1,4 @@
-# flashcardPrinter
+# printFlashcards
 
 This is a tool that transforms a comma separated (CSV) list of flashcard data into a display to be printed on to the front and back of cardstock which is then to be cut into individual flashcards.
 
