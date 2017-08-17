@@ -9744,7 +9744,7 @@ var _user$project$View$viewInput = function (model) {
 						_elm_lang$html$Html$a,
 						{
 							ctor: '::',
-							_0: _elm_lang$html$Html_Attributes$href('https://google.com'),
+							_0: _elm_lang$html$Html_Attributes$href('https://github.com/dc25/printFlashcards'),
 							_1: {ctor: '[]'}
 						},
 						{
